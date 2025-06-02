@@ -10,9 +10,9 @@ Développeuse web passionnée, je crée des sites modernes, dynamiques et perfor
 Objectif : Travailler en ligne comme développeuse freelance et contribuer à des projets innovants.
 
 **Projets réalisés** :
-- ✅ Intégration web en HTML/CSS/JS
-- ✅ Plateformes web en Laravel
-- ✅ Sites dynamiques sous WordPress
+- Intégration web en HTML/CSS/JS
+- Plateformes web en Laravel
+- Sites dynamiques sous WordPress
 
 ---
 
